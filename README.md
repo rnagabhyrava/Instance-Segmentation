@@ -14,7 +14,12 @@ Umair Akthar <br/>
 [link](https://codelabs-preview.appspot.com/?file_id=1mF2DDDvPCMcGwLfEOXnk8GkwWnRzFNjz8XCCa5WUiwY#0) <br/>
 *Project Status*
 [link](https://codelabs-preview.appspot.com/?file_id=1Vcd4KSypKrCZveVe_Jh-kX6mJSeof-BP1q6mGoAvmkQ#0)<br/>
+
 *Project Report CLAAT*
-[link](https://codelabs-preview.appspot.com/?file_id=1h4wzk_C5QbD1zHGyjnj6KsjlLwbJ7DW8SXbva-0tO8s#0)
+[link](https://codelabs-preview.appspot.com/?file_id=1h4wzk_C5QbD1zHGyjnj6KsjlLwbJ7DW8SXbva-0tO8s#0)<br/>
+
+*Project Docs*
+[link](https://docs.google.com/document/d/1h4wzk_C5QbD1zHGyjnj6KsjlLwbJ7DW8SXbva-0tO8s/edit#)<br/>
+
 *Project Presentation*
-[link]()
+[link](https://docs.google.com/presentation/d/1zBq4WjqecHnU1rkWm0xMBmfqcICiT1prMMVWejoA73g/edit#slide=id.g58e1d1e15d_0_0)<br/>
