@@ -1,6 +1,9 @@
 # FinalProject INFO7374
 This is the repository for  the final project for INFO 7374 Team 10.
 
+# Application 
+Click [here](http://instancesegmentation.us-east-2.elasticbeanstalk.com)
+
 *Team members:*
 
 Rama Krishna Kommineni <br/>
