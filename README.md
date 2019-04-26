@@ -18,3 +18,5 @@ Umair Akthar <br/>
 [link](https://codelabs-preview.appspot.com/?file_id=1h4wzk_C5QbD1zHGyjnj6KsjlLwbJ7DW8SXbva-0tO8s#0)
 *Project Presentation*
 [link]()
+*Project Docs*
+[link](https://docs.google.com/document/d/1h4wzk_C5QbD1zHGyjnj6KsjlLwbJ7DW8SXbva-0tO8s/edit#)
