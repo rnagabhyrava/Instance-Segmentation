@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Instance Segmentation</title>
+	  <link rel="stylesheet" href="{{ url_for('static',filename='style.css') }}">
+
+
+</head>
+<body>
+
+	<h1><span>Segmentation of Image</span></h1>
+
+	<form method=POST enctype=multipart/form-data action="{{ url_for('upload') }}">
+  <div id =c style="margin-top:35px; ">
+    <p><h3><span style = "color:black">Uploaded image predictions: </span></h3>
+    </p>
+		<center><img id="prediction" align = middle STYLE="TOP:260px;WIDTH:800px; HEIGHT:600px"/></center>
+		<script>
+		//var img = new Image();
+		prediction.onload = function () {
+		 //alert("image is loaded");
+		}
+		prediction.src = "./static/img/prediction.jpg";
+	 </script>
+	</div>
+
+  <div id=d, style ="margin-top:55px;">
+  <h2> <span> Want to Try Again ?? <span></h2>
+    </div>
+    <div style ="margin-top:15px;">
+      <p><h4><span style="color:black"> Upload your image below </span></h4></p>
+    </div>
+  <div id = a , style="margin-top:25px;">
+			<input type=file name = photo accept="image/*" onchange="loadFile(event)">
+			<center> <img id="output" align = middle STYLE="TOP:160px; LEFT:87px; WIDTH:800px; HEIGHT:600px"/> </center>
+      <script>
+        var loadFile = function(event) {
+        var output = document.getElementById('output');
+        output.src = URL.createObjectURL(event.target.files[0]);
+        };
+     </script>
+		</div>
+
+    <div id = b , style="margin-top:20px;">
+			<input type="submit">
+		</div>
+</form>
+</body>
+</html>

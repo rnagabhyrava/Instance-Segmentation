@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Instance Segmentation</title>
+	  <link rel="stylesheet" href="{{ url_for('static',filename='style.css') }}">
+
+
+</head>
+<body>
+
+	<h1><span>Segmentation of Images</span></h1>
+
+	<form method=POST enctype=multipart/form-data action="{{ url_for('upload') }}">
+
+    <div id = a , style="margin-left:465px; margin-top:65px; float:left; position:absolute;">
+			<input type=file name = photo >
+			<img id="output" STYLE="position:absolute; TOP:160px; LEFT:87px; WIDTH:800px; HEIGHT:600px" src = url/>
+
+		</div>
+
+
+</form>
+</body>
+</html>
