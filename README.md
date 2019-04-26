@@ -22,4 +22,4 @@ Umair Akthar <br/>
 [link](https://docs.google.com/document/d/1h4wzk_C5QbD1zHGyjnj6KsjlLwbJ7DW8SXbva-0tO8s/edit#)<br/>
 
 *Project Presentation*
-[link](https://docs.google.com/presentation/d/1zBq4WjqecHnU1rkWm0xMBmfqcICiT1prMMVWejoA73g/edit#slide=id.g58e1d1e15d_0_0)<br/>
+[link](https://docs.google.com/presentation/d/1zBq4WjqecHnU1rkWm0xMBmfqcICiT1prMMVWejoA73g/edit#slide=id.p1)<br/>
