@@ -1,4 +1,4 @@
-# FinalProject INFO7374
+# Instance Segmentation
 This is the repository for  the final project for INFO 7374 Team 10.
 
 *Application*
